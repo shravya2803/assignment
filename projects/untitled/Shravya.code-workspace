@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../Shravya"
+		},
+		{
+			"path": "C:/MinGW"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}

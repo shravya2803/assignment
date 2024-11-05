@@ -1,0 +1,13 @@
+Bill From Mutri Jewellers of Gold
+Date: 2024-11-05  12-54-02
+Name: shravya
+Address: 
+Mobile No: 9924529755
+Barcode: 
+Weight: 10.0
+Rate: 80000.0
+Making Charges: 9000.0
+Payment Method: Cash
+Transition: Cash
+Tax :- 0%
+Net Amount: 89000.0

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/benchmark/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/debugger/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/examples/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/examples/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/fontbox/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/fontbox/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/io/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/io/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/pdfbox/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/pdfbox/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/preflight/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/preflight/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/tools/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/tools/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/xmpbox/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/pdfbox-3.0.3/xmpbox/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
